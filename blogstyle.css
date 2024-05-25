@@ -1,0 +1,79 @@
+header{
+    position: fixed;
+    border-style: solid;
+    background-color:rgb(255, 132, 0);
+    height: 5cm;
+    width: 40cm;
+    margin-top: -2%;
+    margin-left: 7%;
+    align-self: center;
+}
+h1{
+    font-size: 40px;
+    margin-left:2%;
+    margin-right:2%;
+    font-family: "Comic Sans", sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+h6{
+    margin-left: 5%;
+    margin-bottom: 0%;
+    font-weight: 50;
+    font-size: 15px;
+    font-family:'Verdana', sans-serif;
+}
+line{
+    font-size: 30px;
+}
+section{
+    align-self: center;
+    text-align: right;
+    background-color:antiquewhite;
+    margin-top: 8.4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-width: 1px;
+}
+a{
+    font-size: 12px;
+}
+p{
+    text-indent: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+}
+
+html{
+    background-color:rgb(196, 247, 246);
+}
+img{
+    margin-top: 0%;
+    margin-right: 8%;
+    width: 29cm;
+    margin-bottom: 0%;
+}
+pre{
+    text-align: left;
+    font-size: 15px;
+    font-family: "Comic Sans", sans-serif;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+
+}
+iframe{
+    margin-right: 18%;
+    width:24cm;
+    margin-bottom: 7%;
+}
+h2{
+    text-align: left;
+    margin-left: 10%;
+    font-family: "Arial Black", sans-serif;
+}
